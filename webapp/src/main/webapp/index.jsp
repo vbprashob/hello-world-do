@@ -4,6 +4,9 @@
   </div>
   </br>
   <div class="container">
+    <label for="uname"><b>Eamil</b></label>
+    <input type="text" placeholder="Enter Email" name="ename" required>
+   </br>
     <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
   </br>	
